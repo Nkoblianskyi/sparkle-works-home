@@ -233,7 +233,7 @@ export default function CookiePolicyPage() {
               </p>
               <div className="flex items-center">
                 <Mail className="h-5 w-5 text-orange-600 mr-3" />
-                <span className="text-gray-600">privacy@SparkleWorksHome.nl</span>
+                <span className="text-gray-600">privacy@SparkleWorksHome.com</span>
               </div>
               <p className="text-sm text-gray-500 mt-4">
                 For more information about how we handle your personal data, please see our{" "}
