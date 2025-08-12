@@ -78,13 +78,6 @@ export default function ServicesPage() {
             <Button size="lg" variant="secondary" className="bg-white text-blue-600 hover:bg-gray-100">
               <Link href="/contact">Get Free Quote</Link>
             </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="border-white text-white hover:bg-white hover:text-blue-600 bg-transparent"
-            >
-              <Link href="tel:+3120687154">Call Now: +3120687154</Link>
-            </Button>
           </div>
         </div>
       </section>
